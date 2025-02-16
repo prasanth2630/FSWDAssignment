@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "TechCorp",
+        "location": "Bangalore, India",
+        "type": "full-time",
+        "postedDate": "2024-02-01"
+    },
+    {
+        "title": "Graphic Designer",
+        "company": "CreativeStudio",
+        "location": "Mumbai, India",
+        "type": "part-time",
+        "postedDate": "2024-02-10"
+    }
+]
